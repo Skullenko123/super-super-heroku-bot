@@ -1,1 +1,1 @@
-worker: node mystibot.js
+worker: node index.js
